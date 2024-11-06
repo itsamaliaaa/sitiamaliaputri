@@ -3,4 +3,4 @@ print("Ini adalalah kode pada branch amalia saja")
 print("Selamat Sore!")
 print("Selamat Malam!")
 print("Selamat datanng")
-
+print("Selamat!")
